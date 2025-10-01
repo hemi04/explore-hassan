@@ -23,27 +23,6 @@ Perfect for portfolios, personal projects, or as a starting point for adding bac
    - ⚠️ The 404 page will appear if a route is invalid  
 4️⃣ All pages are static — no server-side processing required  
 
-📂 Project Structure  
-
-Tourism_website/
-│── index.html
-│── places.html
-│── gallery.html
-│── guide.html
-│── contact.html
-│── 404.html
-│── robots.txt
-│── sitemap.xml
-│── site.webmanifest
-│
-└── assets/
-├── css/
-│ └── styles.css
-├── js/
-│ └── main.js
-└── icons/
-└── favicon.svg
-
  Screenshots (Add Your Own)  
 1. 🏠 Home / Landing Page  
 2. 🗺️ Places / Destination Display  
